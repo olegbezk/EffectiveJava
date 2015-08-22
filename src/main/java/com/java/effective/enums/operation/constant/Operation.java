@@ -1,4 +1,4 @@
-package com.java.effective.enums.operation.constatnt;
+package com.java.effective.enums.operation.constant;
 
 /**
  * Created by Oleg on 22 Aug 2015.
