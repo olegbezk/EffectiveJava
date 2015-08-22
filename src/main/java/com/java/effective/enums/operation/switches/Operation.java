@@ -18,4 +18,15 @@ public enum Operation {
         throw new AssertionError("Unknown Operation : " + this);
     }
 
+    // Switch on an enum to simulate a missing method
+    public static Operation inverse(Operation op) {
+        switch (op) {
+            case PLUS: return Operation.MINUS;
+            case MINUS: return Operation.PLUS;
+            case TIMES: return Operation.DIVIDE;
+            case DIVIDE:return Operation.TIMES;
+            default: throw new AssertionError("Unknown Operation : " + op);
+        }
+    }
+
 }
