@@ -39,7 +39,8 @@ public class RunExceptionTests {
                 }
             }
         }
-
+        System.out.printf("Passed: %d, Failed: %d%n",
+                passed, tests - passed);
     }
 
 }
