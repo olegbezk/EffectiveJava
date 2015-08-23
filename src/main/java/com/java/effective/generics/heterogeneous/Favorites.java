@@ -1,4 +1,4 @@
-package com.java.effective.generics.favorites;
+package com.java.effective.generics.heterogeneous;
 
 import java.util.HashMap;
 import java.util.Map;

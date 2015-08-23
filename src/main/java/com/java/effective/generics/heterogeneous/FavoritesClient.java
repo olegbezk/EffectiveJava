@@ -1,6 +1,4 @@
-package com.java.effective.generics.favorites;
-
-import com.java.effective.generics.favorites.Favorites;
+package com.java.effective.generics.heterogeneous;
 
 /**
  * Created by Oleg on 22 Aug 2015.
