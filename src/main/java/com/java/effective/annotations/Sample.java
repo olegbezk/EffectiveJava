@@ -10,7 +10,6 @@ public class Sample {
     public static void m1() {
     } //test should pass
 
-    @Test
     public static void m2() {
     }
 
