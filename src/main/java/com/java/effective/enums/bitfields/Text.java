@@ -1,4 +1,4 @@
-package com.java.effective.bitfields;
+package com.java.effective.enums.bitfields;
 
 import java.util.EnumSet;
 import java.util.Set;
