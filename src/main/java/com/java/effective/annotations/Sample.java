@@ -2,6 +2,7 @@ package com.java.effective.annotations;
 
 /**
  * Created by Oleg on 23 Aug 2015.
+ *
  * Program containing marker annotations.
  */
 public class Sample {

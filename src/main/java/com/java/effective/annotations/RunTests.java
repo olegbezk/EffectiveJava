@@ -5,6 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * Created by Oleg on 23 Aug 2015.
+ *
  * Program to process marker annotations.
  */
 public class RunTests {

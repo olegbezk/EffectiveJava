@@ -7,8 +7,9 @@ import java.lang.annotation.Target;
 
 /**
  * Created by Oleg on 23 Aug 2015.
+ *
  * Marker annotation type declaration.
- *   Indicates that the annotated method is a test method. Use only on
+ * Indicates that the annotated method is a test method. Use only on
  * parameterless static methods.
  */
 @Retention(RetentionPolicy.RUNTIME)
