@@ -1,4 +1,4 @@
-package com.java.effective.instancefield;
+package com.java.effective.enums.instancefield;
 
 /**
  * Created by Oleg on 23 Aug 2015.
