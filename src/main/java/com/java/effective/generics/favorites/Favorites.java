@@ -1,4 +1,4 @@
-package com.java.effective.favorites;
+package com.java.effective.generics.favorites;
 
 import java.util.HashMap;
 import java.util.Map;

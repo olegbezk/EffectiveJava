@@ -1,4 +1,6 @@
-package com.java.effective.favorites;
+package com.java.effective.generics.favorites;
+
+import com.java.effective.generics.favorites.Favorites;
 
 /**
  * Created by Oleg on 22 Aug 2015.
