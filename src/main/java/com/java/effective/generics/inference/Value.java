@@ -1,4 +1,4 @@
-package com.java.effective.inference;
+package com.java.effective.generics.inference;
 
 /**
  * Created by Oleg on 22 Aug 2015.
@@ -6,7 +6,7 @@ package com.java.effective.inference;
  */
 public class Value<T> {
 
-    public static <T> T defaultvalue() {
+    public static <T> T defaultValue() {
         return  null;
     }
 
