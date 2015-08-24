@@ -37,7 +37,7 @@ public class Stack <E> {
             throw new EmptyStackException();
         }
         E result = elements[--size];
-        elements[size] = null;
+        elements[size] = null; //Eliminate obsolete reference
         return result;
     }
 
