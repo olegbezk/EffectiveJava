@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * Created by Oleg on 24 Aug 2015.
- * <p>
+ *
  * Test program for exception test.
  */
 public class RunExceptionTests {
