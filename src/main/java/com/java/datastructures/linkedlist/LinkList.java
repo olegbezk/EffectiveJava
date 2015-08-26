@@ -83,6 +83,10 @@ public class LinkList {
         return true;
     }
 
+    public boolean isEmpty() {
+        return head == null;
+    }
+
     public int size() {
         return listCount;
     }
