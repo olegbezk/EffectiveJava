@@ -25,7 +25,7 @@ public class LinkList {
 
     public Link delete() {
         Link temp = head;
-        head = temp.nextLink;
+        head = head.nextLink;
         return temp;
     }
 
